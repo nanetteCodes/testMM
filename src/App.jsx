@@ -8,8 +8,8 @@
 import React from 'react';
 import {Provider} from 'react-redux';
 
-import Navigation from '/navigation';
-import store from '/redux/store';
+import Navigation from './navigation';
+import store from './redux/store';
 
 function App() {
   return (
