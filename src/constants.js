@@ -23,4 +23,5 @@ export const deviceTypes = {
 export const route = {
   BOTTOM_TABS: 'BottomTabs',
   HOME: 'Home',
+  SCORE: 'Score',
 };
